@@ -44,14 +44,17 @@ This project demonstrates all **10 foundational GoF design patterns** in a reali
 
 ---
 
-## 🖥️ Screenshots
+## 📸 Screenshots
 
-*(Add your screenshots here using Markdown, for example:)*
+### 🏠 Main Interface
+<img src="screenshots/main-interface.png" width="680"/>
 
-```md
-![Main UI](images/main-ui.png)
-![Add Task Dialog](images/add-dialog.png)
-```
+### ➕ Add Task Dialog
+<img src="screenshots/add-task.png" width="680"/>
+
+### ✔️ Completed Tasks View
+<img src="screenshots/toggle-complete.png" width="680"/>
+
 
 ---
 
