@@ -9,7 +9,7 @@
 **Todo** is a simple, elegant desktop application for managing daily tasks.
 It is intentionally lightweight, intuitive, and beginner-friendly, while still showcasing advanced software-engineering techniques under the hood.
 
-This project integrates **all 10 GoF (Gang of Four) design patterns**, making it a great learning resource as well as a practical productivity tool.
+This project integrates **all 10 GoF (Gang of Four) design patterns**.
 
 ---
 
