@@ -50,8 +50,10 @@ This project demonstrates all **10 foundational GoF design patterns** in a reali
 <img src="screenshots/main-interface.png" width="500"/>
 
 
+
 ### ➕ Add Task Dialog
 <img src="screenshots/add-task.png" width="500"/>
+
 
 
 ### ✔️ Completed Tasks View
